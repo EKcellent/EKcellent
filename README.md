@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Esha! 👋
 
 <!--
 **EKcellent/EKcellent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🏫 Education
+
+Duke University Class of 2025
+
+Major in Computer Science | Minor in Finance
 
 Here are some ideas to get you started:
 
