@@ -18,4 +18,5 @@
 #### :pencil2: CS Class Work
 ---
 #### :mailbox_closed: Contact Me
-Please feel free to reach out via LinkedIn!
+Please feel free to reach out via 
+[![Linkedin!](https://i.stack.imgur.com/gVE0j.png) LinkedIn!](linkedin.com/in/eshakapoor-duke)
