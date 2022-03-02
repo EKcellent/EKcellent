@@ -3,13 +3,15 @@
 <!--
 **EKcellent/EKcellent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-___
+---
 
 ### :school: Education
 
 - Duke University Class of 2025
 
 - Major in Computer Science | Minor in Finance
+
+---
 
 Here are some ideas to get you started:
 
