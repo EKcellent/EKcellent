@@ -16,6 +16,7 @@
 
 ---
 #### :pencil2: CS Class Work
+- [CS 110 - Introduction to Computer Science](https://github.com/EKcellent/CS110)
 ---
 #### :mailbox_closed: Contact Me
 Please feel free to reach out via 
