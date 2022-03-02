@@ -1,4 +1,4 @@
-### Hi there, I'm Esha! 👋
+### Hi there, I'm Esha! 👋 
 
 ---
 #### :school: Education
@@ -9,3 +9,10 @@
 - Minor in Finance
 
 ---
+#### :woman_technologist: Work Experience
+- Summer 2020 - Research Assistant at Clemson University
+- Spring 2022 - Computer Science Tutor at CS Sidekicks
+- Spring 2022 - Research Assistant at Duke University
+
+---
+#### :pencil2: CS Class Work
