@@ -19,4 +19,4 @@
 ---
 #### :mailbox_closed: Contact Me
 Please feel free to reach out via 
-[![Linkedin!](https://i.stack.imgur.com/gVE0j.png) LinkedIn!](linkedin.com/in/eshakapoor-duke)
+[![Linkedin!](https://i.stack.imgur.com/gVE0j.png) LinkedIn!](https://www.linkedin.com/in/eshakapoor-duke/)
