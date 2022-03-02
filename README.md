@@ -16,3 +16,6 @@
 
 ---
 #### :pencil2: CS Class Work
+---
+#### :mailbox_closed: Contact Me!
+Please feel free to reach out via LinkedIn!
