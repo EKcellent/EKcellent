@@ -3,8 +3,9 @@
 ---
 ##### :school: Education
 
-- Duke University Class of 2025
+*Duke University Class of 2025*
 
-- Major in Computer Science | Minor in Finance
+- Major in Computer Science 
+- Minor in Finance
 
 ---
