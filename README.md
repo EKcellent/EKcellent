@@ -16,6 +16,7 @@
 
 ---
 #### :pencil2: CS Class Work
+NOTE: Some repositories may be private to preserve the integrity of course assignments. Please reach out to gain access.
 - [CS 110 - Introduction to Computer Science](https://github.com/EKcellent/CS110)
 ---
 #### :mailbox_closed: Contact Me
