@@ -16,12 +16,12 @@
 
 ---
 #### :pencil2: CS Class Work
-Note: Some repositories may be private to preserve the integrity of course assignments. Please reach out to gain access.
+Note: Some repositories may be private to preserve the integrity of course assignments. Please reach out to have viewing access.
 - [CS 110 - Introduction to Computer Science](https://github.com/EKcellent/CS110)
 - [EGR 141 - MATLAB Programming](https://github.com/EKcellent/EGR141)
 - [CS 201 - Data Structures and Algorithms](https://github.com/EKcellent/CS201)
 - [CS 210 - Introduction to Computer Systems](https://github.com/EKcellent/CS210)
 ---
 #### :mailbox_closed: Contact Me
-Please feel free to reach out via 
+Contact me via 
 [![Linkedin!](https://i.stack.imgur.com/gVE0j.png) LinkedIn!](https://www.linkedin.com/in/eshakapoor-duke/)
