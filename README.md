@@ -16,7 +16,7 @@
 
 ---
 #### :pencil2: CS Class Work
-Note: Some repositories may be private to preserve the integrity of course assignments. Please reach out to have viewing access.
+Note: Some repositories may be private to preserve the integrity of course assignments. Please reach out for viewing access.
 - [CS 110 - Introduction to Computer Science](https://github.com/EKcellent/CS110)
 - [EGR 141 - MATLAB Programming](https://github.com/EKcellent/EGR141)
 - [CS 201 - Data Structures and Algorithms](https://github.com/EKcellent/CS201)
