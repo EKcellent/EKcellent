@@ -10,9 +10,13 @@
 
 ---
 #### :woman_technologist: Work Experience
-- Summer 2020 - Research Assistant at Clemson University
+- Spring 2022 - Software Engineering Intern at Duke Office of Information Technology
+- Spring 2022 - Full Stack Developer at Duke University
 - Spring 2022 - Computer Science Tutor at CS Sidekicks
 - Spring 2022 - Research Assistant at Duke University
+- Summer 2020 - Research Assistant at Clemson University
+
+
 
 ---
 #### :pencil2: CS Class Work
