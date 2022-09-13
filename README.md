@@ -3,7 +3,7 @@
 ---
 #### :school: Education
 
-*Duke University Class of 2025*
+*Duke University*
 
 - Major in Computer Science 
 - Minor in Finance
