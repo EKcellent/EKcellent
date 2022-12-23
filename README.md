@@ -25,6 +25,7 @@ Note: Some repositories may be private to preserve the integrity of course assig
 - [EGR 141 - Computational Programming (MATLAB)](https://github.com/EKcellent/EGR141)
 - [CS 201 - Data Structures and Algorithms (Java)](https://github.com/EKcellent/CS201)
 - [CS 210 - Introduction to Computer Systems (C, x86)](https://github.com/EKcellent/CS210)
+- [CS 316 - Introduction to Database Systems (SQL, XML, JSON, MongoDB)](https://github.com/EKcellent/CS316)
 ---
 #### :mailbox_closed: Contact Me
 Contact me via 
