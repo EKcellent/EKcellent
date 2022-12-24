@@ -27,10 +27,10 @@ Note: Repositories are private to preserve the integrity of course assignments. 
 - [CS 210 - Introduction to Computer Systems (C, x86)](https://github.com/EKcellent/CS210)
 - [CS 316 - Introduction to Database Systems (SQL, XML, JSON, MongoDB)](https://github.com/EKcellent/CS316)
 ---
----
-#### :books: Additional Projects
+
+#### :books: Highlighted Projects
 - [Movie Betting Application](https://github.com/EKcellent/Movie-Better)
-- [Weather Application]
+- [Weather Application] (https://github.com/EKcellent/Movie-Better)
 - [CircleClick Video Game](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py)
 
 #### :mailbox_closed: Contact Me
