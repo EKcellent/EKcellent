@@ -32,9 +32,9 @@ Note: Repositories are private to preserve the integrity of course assignments. 
 - [Movie Betting Application](https://github.com/EKcellent/Movie-Better)
 - [Weather Application](https://github.com/EKcellent/Weather-App)
 - [CircleClick Video Game](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py)
+- [CAD Autograder](https://github.com/EKcellent/CAD-Autograder)
 - [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete)
-- [Key-Value Software Cache](https://github.com/EKcellent/CS210/tree/main/Projects/Project_5)
-- [CAD Autograder](https://github.com/EKcellent/CS110)
+- [Heap Allocator](https://github.com/EKcellent/CS210/tree/main/Projects/Project_6)
 ---
 #### :mailbox_closed: Contact Me
 Contact me via 
