@@ -1,5 +1,7 @@
 ### Hi there, I'm Esha! 👋 
 
+Glad you could stop by! Please note that many repositories are private to preserve the integrity of course assignments and research projects. However, they are available upon request, thanks!
+
 ---
 #### :school: Education
 
@@ -9,7 +11,6 @@
 - Concentration in Artificial Intelligence and Machine Learning
 - Minor in Finance
 
-Note: Many repositories are private to preserve the integrity of course assignments and research projects. Please reach out for viewing access!
 
 ---
 #### :woman_technologist: Work Experience
