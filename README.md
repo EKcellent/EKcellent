@@ -9,6 +9,8 @@
 - Concentration in Artificial Intelligence and Machine Learning
 - Minor in Finance
 
+Note: Many repositories are private to preserve the integrity of course assignments and research projects. Please reach out for viewing access!
+
 ---
 #### :woman_technologist: Work Experience
 - Summer & Fall 2022 - Full Stack Developer at Duke University
@@ -21,7 +23,6 @@
 
 ---
 #### :pencil2: CS Class Work
-Note: Repositories are private to preserve the integrity of course assignments. Please reach out for viewing access.
 - [CS 110 - Introduction to Computer Science (Python)](https://github.com/EKcellent/CS110)
 - [EGR 141 - Computational Programming (MATLAB)](https://github.com/EKcellent/EGR141)
 - [CS 201 - Data Structures and Algorithms (Java)](https://github.com/EKcellent/CS201)
@@ -34,8 +35,8 @@ Note: Repositories are private to preserve the integrity of course assignments. 
 - [Weather Application](https://github.com/EKcellent/Weather-App)
 - [CircleClick Video Game](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py)
 - [CAD Autograder](https://github.com/EKcellent/CAD-Autograder)
-- [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete)
 - [Heap Allocator](https://github.com/EKcellent/CS210/tree/main/Projects/Project_6)
+- [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete)
 ---
 #### :mailbox_closed: Contact Me
 Contact me via 
