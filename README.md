@@ -30,7 +30,7 @@ Note: Repositories are private to preserve the integrity of course assignments. 
 
 #### :books: Highlighted Projects
 - [Movie Betting Application](https://github.com/EKcellent/Movie-Better)
-- [Weather Application](https://github.com/EKcellent/Movie-Better)
+- [Weather Application](https://github.com/EKcellent/Weather-App)
 - [CircleClick Video Game](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py)
 ---
 #### :mailbox_closed: Contact Me
