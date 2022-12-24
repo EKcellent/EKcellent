@@ -20,13 +20,19 @@
 
 ---
 #### :pencil2: CS Class Work
-Note: Some repositories may be private to preserve the integrity of course assignments. Please reach out for viewing access.
+Note: Repositories are private to preserve the integrity of course assignments. Please reach out for viewing access.
 - [CS 110 - Introduction to Computer Science (Python)](https://github.com/EKcellent/CS110)
 - [EGR 141 - Computational Programming (MATLAB)](https://github.com/EKcellent/EGR141)
 - [CS 201 - Data Structures and Algorithms (Java)](https://github.com/EKcellent/CS201)
 - [CS 210 - Introduction to Computer Systems (C, x86)](https://github.com/EKcellent/CS210)
 - [CS 316 - Introduction to Database Systems (SQL, XML, JSON, MongoDB)](https://github.com/EKcellent/CS316)
 ---
+---
+#### :books: Additional Projects
+- [Movie Betting Application](https://github.com/EKcellent/Movie-Better)
+- [Weather Application]
+- [CircleClick Video Game](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py)
+
 #### :mailbox_closed: Contact Me
 Contact me via 
 [![Linkedin!](https://i.stack.imgur.com/gVE0j.png) LinkedIn!](https://www.linkedin.com/in/eshakapoor-duke/)
