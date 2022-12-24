@@ -32,7 +32,7 @@ Note: Repositories are private to preserve the integrity of course assignments. 
 - [Movie Betting Application](https://github.com/EKcellent/Movie-Better)
 - [Weather Application](https://github.com/EKcellent/Movie-Better)
 - [CircleClick Video Game](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py)
-
+---
 #### :mailbox_closed: Contact Me
 Contact me via 
 [![Linkedin!](https://i.stack.imgur.com/gVE0j.png) LinkedIn!](https://www.linkedin.com/in/eshakapoor-duke/)
