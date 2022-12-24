@@ -42,3 +42,6 @@ Glad you could stop by! Please note that many repositories are private to preser
 #### :mailbox_closed: Contact Me
 Contact me via 
 [![Linkedin!](https://i.stack.imgur.com/gVE0j.png) LinkedIn!](https://www.linkedin.com/in/eshakapoor-duke/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EKcellent)](https://github.com/EKcellent/EKcellent)
+
