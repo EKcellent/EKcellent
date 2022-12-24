@@ -32,7 +32,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 ---
 
 #### :books: Highlighted Projects
-- [Movie Betting Application *in MongoDB, Express, React, & Node*](https://github.com/EKcellent/Movie-Better)
+- [Movie Betting Application](https://github.com/EKcellent/Movie-Better) *in MongoDB, Express, React, & Node*
 - [Weather Application *in JavaScript, HTML, & CSS*](https://github.com/EKcellent/Weather-App)
 - [CircleClick Video Game *in Python & PyGame*](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py)
 - [CAD Autograder *in Flask & React*](https://github.com/EKcellent/CAD-Autograder)
