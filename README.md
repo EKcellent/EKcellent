@@ -5,7 +5,8 @@
 
 *Duke University*
 
-- Major in Computer Science 
+- Major in Computer Science
+- Concentration in Artificial Intelligence and Machine Learning
 - Minor in Finance
 
 ---
