@@ -32,12 +32,12 @@ Glad you could stop by! Please note that many repositories are private to preser
 ---
 
 #### :books: Highlighted Projects
-- [Movie Betting Application (MongoDB, Express, React, Node)](https://github.com/EKcellent/Movie-Better)
-- [Weather Application (JavaScript, HTML, CSS)](https://github.com/EKcellent/Weather-App)
-- [CircleClick Video Game (Python, PyGame)](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py)
-- [CAD Autograder (Flask, React)](https://github.com/EKcellent/CAD-Autograder)
-- [Heap Allocator (C)](https://github.com/EKcellent/CS210/tree/main/Projects/Project_6)
-- [Autocomplete Algorithm (Java)](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete)
+- [Movie Betting Application *in MongoDB, Express, React, & Node*](https://github.com/EKcellent/Movie-Better)
+- [Weather Application *in JavaScript, HTML, & CSS*](https://github.com/EKcellent/Weather-App)
+- [CircleClick Video Game *in Python & PyGame*](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py)
+- [CAD Autograder *in Flask & React*](https://github.com/EKcellent/CAD-Autograder)
+- [Heap Allocator *in C*](https://github.com/EKcellent/CS210/tree/main/Projects/Project_6)
+- [Autocomplete Algorithm *in Java*](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete)
 ---
 #### :mailbox_closed: Contact Me
 Contact me via 
