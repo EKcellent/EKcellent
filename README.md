@@ -10,18 +10,6 @@ Glad you could stop by! Please note that many repositories are private to preser
 - Major in Computer Science
 - Concentration in Artificial Intelligence and Machine Learning
 - Minor in Finance
-
-
----
-#### :woman_technologist: Work Experience
-- Summer & Fall 2022 - Full Stack Developer at Duke University
-- Summer 2022 - Software Engineering Intern at Duke Office of Information Technology
-- Spring 2022 - Computer Science Tutor at CS Sidekicks
-- Spring 2022 - Research Assistant at Duke University
-- Summer 2020 - Research Assistant at Clemson University
-
-
-
 ---
 #### :pencil2: CS Class Work
 - [CS 110 - Introduction to Computer Science (Python)](https://github.com/EKcellent/CS110)
@@ -38,7 +26,6 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [CAD Autograder](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
 - [Heap Allocator](https://github.com/EKcellent/CS210/tree/main/Projects/Project_6) *in C*
 - [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
-- [Electric Race Car](https://github.com/EKcellent/Electric-Race-Car) *in C++*
 ---
 #### :mailbox_closed: Contact Me
 Contact me via 
