@@ -3,14 +3,6 @@
 Glad you could stop by! Please note that many repositories are private to preserve the integrity of course assignments and research projects. However, they are available upon request. Thank you for understanding!
 
 ---
-#### :school: Education
-
-*Duke University*
-
-- Major in Computer Science
-- Concentration in Artificial Intelligence and Machine Learning
-- Minor in Finance
----
 #### :pencil2: CS Class Work
 - [CS 110 - Introduction to Computer Science (Python)](https://github.com/EKcellent/CS110)
 - [EGR 141 - Computational Programming (MATLAB)](https://github.com/EKcellent/EGR141)
@@ -26,7 +18,3 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [CAD Autograder](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
 - [Heap Allocator](https://github.com/EKcellent/CS210/tree/main/Projects/Project_6) *in C*
 - [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
----
-#### :mailbox_closed: Contact Me
-Contact me via 
-[![Linkedin!](https://i.stack.imgur.com/gVE0j.png) LinkedIn!](https://www.linkedin.com/in/eshakapoor-duke/)
