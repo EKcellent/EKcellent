@@ -19,3 +19,4 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [CAD Autograder](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
 - [Heap Allocator](https://github.com/EKcellent/CS210/tree/main/Projects/Project_6) *in C*
 - [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
+- [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *in R*
