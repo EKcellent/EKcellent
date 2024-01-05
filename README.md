@@ -10,6 +10,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [CS 210 - Introduction to Computer Systems (C, x86)](https://github.com/EKcellent/CS210)
 - [CS 316 - Introduction to Database Systems (SQL, XML, MongoDB)](https://github.com/EKcellent/CS316)
 - [STA 199 - Introduction to Data Science (R)](https://github.com/EKcellent/STA199L)
+- [CS 310 - Introduction to Operating Systems (C, xv6 OS)](https://github.com/EKcellent/CS310)
 ---
 
 #### :books: Highlighted Projects
