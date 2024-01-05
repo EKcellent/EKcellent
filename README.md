@@ -21,3 +21,5 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [Toy Operating System](https://github.com/EKcellent/CS310) *in C & Perl*
 - [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
 - [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *in R and RShiny*
+- [Electric Race Car] (https://github.com/EKcellent/Electric-Race-Car)https://github.com/EKcellent/Electric-Race-Car) *in C++*
+
