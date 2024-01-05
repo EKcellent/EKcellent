@@ -11,6 +11,8 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [CS 316 - Introduction to Database Systems (SQL, XML, MongoDB)](https://github.com/EKcellent/CS316)
 - [STA 199 - Introduction to Data Science (R)](https://github.com/EKcellent/STA199L)
 - [CS 310 - Introduction to Operating Systems (C)](https://github.com/EKcellent/CS310)
+- [CS 371 - Elements of Machine Learning (NumPy, SciKit-Learn, Matplotlib)](https://github.com/EKcellent/CS371)
+
 ---
 
 #### :books: Highlighted Projects
@@ -20,6 +22,6 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [CAD Autograder](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
 - [Toy Operating System](https://github.com/EKcellent/CS310) *in C & Perl*
 - [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
-- [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *in R and RShiny*
+- [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *in R & RShiny*
 - [Electric Race Car](https://github.com/EKcellent/Electric-Race-Car) *in C++*
 
