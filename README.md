@@ -22,7 +22,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [CAD Autograder](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
 - [Toy Operating System](https://github.com/EKcellent/CS310) *in C & Perl*
 - [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
-- [Electric Race Car (2nd place winner](https://github.com/EKcellent/Electric-Race-Car) *in C++*
+- [Electric Race Car (2nd place winner)](https://github.com/EKcellent/Electric-Race-Car) *in C++*
 
 ---
 #### 📰 Papers
