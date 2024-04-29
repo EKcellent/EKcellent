@@ -24,6 +24,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
 - [Electric Race Car](https://github.com/EKcellent/Electric-Race-Car) *in C++*
 
+---
 #### 📰 Papers
 - [Quantization in Large Language Models](https://github.com/EKcellent/STA199L/tree/main/Project) *in PyTorch & Google CoLab*
 - [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *in R & RShiny*
