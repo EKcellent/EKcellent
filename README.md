@@ -22,12 +22,12 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [CAD Autograder](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
 - [Toy Operating System](https://github.com/EKcellent/CS310) *in C & Perl*
 - [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
-- [Electric Race Car](https://github.com/EKcellent/Electric-Race-Car) *in C++*
+- [Electric Race Car (2nd place winner](https://github.com/EKcellent/Electric-Race-Car) *in C++*
 
 ---
 #### 📰 Papers
-- [Quantization in Large Language Models](https://github.com/EKcellent/STA199L/tree/main/Project) *in PyTorch & Google CoLab*
+- [Quantization in Large Language Models](https://github.com/EKcellent/Papers/blob/main/Quantization%20and%20The%20New%20Bitnet.pdf) *in PyTorch & Google CoLab*
 - [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *in R & RShiny*
-- [The Rise of Telehealth: Investigating the Legal, Policy, Ethical, and Technical Issues During and After the COVID-era](https://github.com/EKcellent/STA199L/tree/main/Project) 
+- [The Rise of Telehealth: Investigating the Legal, Policy, Ethical, and Technical Issues During and After the COVID-era](https://github.com/EKcellent/Papers/blob/main/The%20Rise%20of%20Telehealth_%20Examining%20the%20Impact%20on%20the%20Healthcare%20Industry%20During%20and%20After%20the%20COVID-era.pdf) 
 
 
