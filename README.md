@@ -22,7 +22,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [Toy Operating System](https://github.com/EKcellent/CS310) *in C & Perl*
 - [Autocomplete Search Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
 - [Electric Race Car (2nd Place Winner)](https://github.com/EKcellent/Electric-Race-Car) *in C++*
-- [Quantum Image Encryption and Decryption](https://github.com/EKcellent/Electric-Race-Car) *in IBM Qiskit*
+- [Quantum Image Encryption and Decryption](https://github.com/EKcellent/Quantum-Class) *in IBM Qiskit*
 
 ---
 #### 📰 Papers
