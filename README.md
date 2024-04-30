@@ -16,17 +16,18 @@ Glad you could stop by! Please note that many repositories are private to preser
 ---
 
 #### :books: Highlighted Projects
-- [Movie Betting Application (winner of audience choice award)](https://github.com/EKcellent/Movie-Better) *in MongoDB, Express, React, & Node*
+- [Movie Betting Application (Winner of Audience Choice Award)](https://github.com/EKcellent/Movie-Better) *in MongoDB, Express, React, & Node*
 - [Weather Application](https://github.com/EKcellent/Weather-App) *in JavaScript, HTML, & CSS*
 - [CircleClick Video Game](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py) *in Python & PyGame*
-- [CAD Autograder](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
 - [Toy Operating System](https://github.com/EKcellent/CS310) *in C & Perl*
-- [Autocomplete Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
-- [Electric Race Car (2nd place winner)](https://github.com/EKcellent/Electric-Race-Car) *in C++*
+- [Autocomplete Search Algorithm](https://github.com/EKcellent/CS201/tree/main/Project%205%20Autocomplete) *in Java*
+- [Electric Race Car (2nd Place Winner)](https://github.com/EKcellent/Electric-Race-Car) *in C++*
+- [Quantum Image Encryption and Decryption](https://github.com/EKcellent/Electric-Race-Car) *in IBM Qiskit*
 
 ---
 #### 📰 Papers
 - [Quantization in Large Language Models](https://github.com/EKcellent/Papers/blob/main/Quantization%20and%20The%20New%20Bitnet.pdf) *in PyTorch & Google CoLab*
+- [ViTA-DXF: A Web App for CAD-Tool-Independent Autograding of Two-Dimensional Computer-Aided Design Drawings](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
 - [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *in R & RShiny*
 - [The Rise of Telehealth: Investigating the Legal, Policy, Ethical, and Technical Issues During and After the COVID-era](https://github.com/EKcellent/Papers/blob/main/The%20Rise%20of%20Telehealth_%20Examining%20the%20Impact%20on%20the%20Healthcare%20Industry%20During%20and%20After%20the%20COVID-era.pdf) 
 
