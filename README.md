@@ -30,6 +30,5 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [ViTA-DXF: A Web App for CAD-Tool-Independent Autograding of Two-Dimensional Computer-Aided Design Drawings](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
 - [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *in R & RShiny*
 - [The Rise of Telehealth: Investigating the Legal, Policy, Ethical, and Technical Issues During and After the COVID-era](https://github.com/EKcellent/Papers/blob/main/The%20Rise%20of%20Telehealth_%20Examining%20the%20Impact%20on%20the%20Healthcare%20Industry%20During%20and%20After%20the%20COVID-era.pdf)
-- [Tech Blog :)](https://sites.duke.edu/writing270011su24_eshakapoor/)
 
 
