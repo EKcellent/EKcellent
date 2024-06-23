@@ -16,7 +16,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 ---
 
 #### :books: Highlighted Projects
-- [Movie Betting Application (Winner of Audience Choice Award)](https://github.com/EKcellent/Movie-Better) *in MongoDB, Express, React, & Node*
+- [Movie Betting Application (Winner of Audience Choice Award)](https://github.com/EKcellent/Movie-Better) *in MongoDB, Express, React, Node, & OAuth*
 - [Weather Application](https://github.com/EKcellent/Weather-App) *in JavaScript, HTML, & CSS*
 - [CircleClick Video Game](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py) *in Python & PyGame*
 - [Toy Operating System](https://github.com/EKcellent/CS310) *in C & Perl*
@@ -26,10 +26,10 @@ Glad you could stop by! Please note that many repositories are private to preser
 
 ---
 #### 📰 Papers
-- [1-bit vs. 16-bit Quantization in Large Language Models](https://github.com/EKcellent/Papers/blob/main/Quantization%20and%20The%20New%20Bitnet.pdf) *in PyTorch & Google Colab*
-- [ViTA-DXF: A Web App for CAD-Tool-Independent Autograding of Two-Dimensional Computer-Aided Design Drawings](https://github.com/EKcellent/CAD-Autograder) *in Flask & React*
-- [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *in R & RShiny*
+- [1-bit vs. 16-bit Quantization in Large Language Models](https://github.com/EKcellent/Papers/blob/main/Quantization%20and%20The%20New%20Bitnet.pdf) *with PyTorch & Google Colab*
+- [ViTA-DXF: A Web App for CAD-Tool-Independent Autograding of Two-Dimensional Computer-Aided Design Drawings](https://github.com/EKcellent/CAD-Autograder) *with Flask & React*
+- [Investigating Air Quality Across US States](https://github.com/EKcellent/STA199L/tree/main/Project) *with R & RShiny*
 - [The Rise of Telehealth: Investigating the Legal, Policy, Ethical, and Technical Issues During and After the COVID-era](https://github.com/EKcellent/Papers/blob/main/The%20Rise%20of%20Telehealth_%20Examining%20the%20Impact%20on%20the%20Healthcare%20Industry%20During%20and%20After%20the%20COVID-era.pdf)
-- [Tech Blog :)](https://sites.duke.edu/writing270011su24_eshakapoor/)
+- [Engineering with Esha Tech Blog](https://sites.duke.edu/writing270011su24_eshakapoor/)
 
 
