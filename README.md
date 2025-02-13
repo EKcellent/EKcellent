@@ -35,7 +35,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 ---
 #### :seedling: Technologies
 
-Here are the technologies I have experimented with over the years!
+Here are the technologies I have experimented with over the last 8 years!
 
 ##### Python & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,6 +46,7 @@ Here are the technologies I have experimented with over the years!
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-02569B?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 
 ##### Java & Frameworks
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
