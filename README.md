@@ -35,7 +35,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 ---
 #### :seedling: Technologies
 
-Here are the technologies I have experimented with over the last 8 years!
+The following are technologies I have experimented with over the last 8 years! I mainly code in Python, Java, and JavaScript :)
 
 ##### Python & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
