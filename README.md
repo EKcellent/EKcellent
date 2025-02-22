@@ -33,6 +33,11 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [Engineering with Esha Tech Blog](https://sites.duke.edu/writing270011su24_eshakapoor/)
 
 ---
+#### 📰 FinTech Pitchbooks
+- [NXP Semiconductors Acquires Infineon Technologies (M&A Pitchbook)] (https://github.com/EKcellent/financial-pitch-books/blob/main/NXP%20Semiconductors%20Acquires%20Infineon%20Technologies.pdf)
+- [Amazon Acquisition of OneMedical Telehealth (Trade Pitch)] (https://github.com/EKcellent/financial-pitch-books/blob/main/Goldman%20Sachs%20Trade%20Pitch%20Competition.pptx)
+
+---
 #### :seedling: Technologies
 
 The following are technologies I have experimented with over the last 8 years! I am specialized in Python, Java, and JavaScript.
