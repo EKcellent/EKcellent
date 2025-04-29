@@ -1,4 +1,4 @@
-### Hi there, I'm Esha! 👋 
+### Hello world, I'm Esha! 👋 
 
 Glad you could stop by! Please note that many repositories are private to preserve the integrity of course assignments and research projects. However, they are available upon request. Thank you for understanding!
 
