@@ -12,7 +12,8 @@ Glad you could stop by! Please note that many repositories are private to preser
 - [STA 199 - Introduction to Data Science (R)](https://github.com/EKcellent/STA199L)
 - [CS 310 - Introduction to Operating Systems (C)](https://github.com/EKcellent/CS310)
 - [CS 371 - Elements of Machine Learning (NumPy, SciKit-Learn, Matplotlib)](https://github.com/EKcellent/CS371)
-
+- [CS 290 - Applied Machine Learning (NumPy, SciKit-Learn, PyTorch)](https://github.com/EKcellent/CS290)
+- [CS 370 - Introduction to Artificial Intelligence (Python)](https://github.com/EKcellent/CS370)
 ---
 
 #### :books: Highlighted Projects
