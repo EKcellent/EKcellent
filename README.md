@@ -41,7 +41,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 ---
 #### :seedling: Technologies
 
-The following are technologies I have experimented with over the last 8 years! I am specialized in Python, Java, and JavaScript.
+The following are technologies I have experimented with over the years! I am specialized in Python, Java, and JavaScript.
 
 ##### Python & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
