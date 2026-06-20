@@ -19,6 +19,7 @@ Glad you could stop by! Please note that many repositories are private to preser
 #### :books: Highlighted Projects
 - [Movie Betting Application (Winner of Audience Choice Award)](https://github.com/EKcellent/Movie-Better) *in MongoDB, Express, React, Node, & OAuth*
 - [Arc: A Self-Development App](https://arc-journal.lovable.app) *with lovable.dev*
+- [Stillwater: An Anxiety Relief App](https://calm-down-stillwater.lovable.app) *with lovable.dev)*
 - [Weather Application](https://github.com/EKcellent/Weather-App) *in JavaScript, HTML, & CSS*
 - [CircleClick Video Game](https://github.com/EKcellent/CS110/blob/main/Project%202/Final%20Project_Prompt%205.py) *in Python & PyGame*
 - [Toy Operating System](https://github.com/EKcellent/CS310) *in C & Perl*
