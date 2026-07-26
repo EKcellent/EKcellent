@@ -98,6 +98,7 @@ The following are technologies I have experimented with over the years! I am spe
 
 ##### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
@@ -106,6 +107,11 @@ The following are technologies I have experimented with over the years! I am spe
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-004B87?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+##### APIs & Integration
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![SOAP APIs](https://img.shields.io/badge/SOAP_APIs-FFCC00?style=for-the-badge)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ##### Observability & Monitoring
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -149,6 +155,4 @@ The following are technologies I have experimented with over the years! I am spe
 ![Large Language Models](https://img.shields.io/badge/LLMs-FF5733?style=for-the-badge)
 ![High Performance Computing](https://img.shields.io/badge/HPC-1E90FF?style=for-the-badge)
 ![OCR](https://img.shields.io/badge/OCR-4A90E2?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-![SOAP APIs](https://img.shields.io/badge/SOAP_APIs-FFCC00?style=for-the-badge)
 
