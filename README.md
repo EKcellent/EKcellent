@@ -128,6 +128,7 @@ The following are technologies I have experimented with over the years! I am spe
 ##### Developer Tools
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arcanist](https://img.shields.io/badge/Arcanist-4B5563?style=for-the-badge)
 ![Phabricator](https://img.shields.io/badge/Phabricator-4B5563?style=for-the-badge)
