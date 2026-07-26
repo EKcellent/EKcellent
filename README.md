@@ -57,7 +57,6 @@ The following are technologies I have experimented with over the years! I am spe
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-02569B?style=for-the-badge&logo=python&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-4A90E2?style=for-the-badge)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 
 ##### Java & Frameworks
@@ -148,6 +147,7 @@ The following are technologies I have experimented with over the years! I am spe
 ##### Specialized Topics
 ![Large Language Models](https://img.shields.io/badge/LLMs-FF5733?style=for-the-badge)
 ![High Performance Computing](https://img.shields.io/badge/HPC-1E90FF?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-4A90E2?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![SOAP APIs](https://img.shields.io/badge/SOAP_APIs-FFCC00?style=for-the-badge)
 
