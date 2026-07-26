@@ -144,6 +144,7 @@ The following are technologies I have experimented with over the years! I am spe
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![NoSQL Workbench](https://img.shields.io/badge/NoSQL_Workbench-47A248?style=for-the-badge)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-00ADD8?style=for-the-badge&logo=goland&logoColor=white)
